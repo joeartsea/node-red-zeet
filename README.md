@@ -1,11 +1,11 @@
-node-red-heroku
+node-red-zeet
 ================
 
-A wrapper for deploying [Node-RED](http://nodered.org) into the [Heroku](https://www.heroku.com).
+A wrapper for deploying [Node-RED](http://nodered.org) into the [Zeet](https://zeet.co).
 
-### Deploying Node-RED into Heroku
+### Deploying Node-RED into Zeet
 
-[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy?template=https://github.com/joeartsea/node-red-heroku)
+[![Deploy](https://deploy.zeet.co/node-red-zeet.svg)](https://deploy.zeet.co/?url=https://github.com/joeartsea/node-red-zeet)
 
 ### Password protect the flow editor
 
